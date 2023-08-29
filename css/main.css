@@ -463,7 +463,7 @@ div.story > div.items {
 div.story > div.items > div.pic {
   width: 92%;
   height: 78px;
-  border: 2px solid #ee384e;
+
   background-color: white;
   border-radius: 50%;
   display: flex;
@@ -1667,10 +1667,7 @@ div.footer > div.site > div.sites > img {
   font-weight: bolder;
 }
 
-
 /*end menu*/
-
-
 
 /*slider*/
 
@@ -1708,4 +1705,3 @@ div.footer > div.site > div.sites > img {
 }
 
 /*end slider*/
-
